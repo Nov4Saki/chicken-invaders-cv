@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Stray folders from separate workshops
+impeccable_apps/
+multilingual_showcase/
+production_vibe_hardening_kit/
+recruitment_agency/
+showcase_websites/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
